@@ -1,0 +1,2 @@
+buildCCTVStreamCard('CCTV 2'),
+            SizedBox(height: 20.0),
