@@ -61,10 +61,6 @@ Feel free to report issues or suggest features by creating a GitHub issue. Contr
 ---
 
 ## 🏆 Credits  
-- **Deep Learning Models**: RCNN, Faster RCNN  
-- **Frameworks**: TensorFlow, PyTorch, OpenCV  
-- **Mobile App**: Flutter  
-
----  
-
-**Made with ❤️ by BlueFuse**
+- **Deep Learning Models**: RCNN, Faster RCNN
+- **Frameworks**: TensorFlow, PyTorch, OpenCV
+- **Mobile App**: Flutter
