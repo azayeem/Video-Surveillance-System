@@ -60,7 +60,7 @@ Feel free to report issues or suggest features by creating a GitHub issue. Contr
 
 ---
 
-## 🏆 Credits  
+## 🏆 Tech Stack  
 - **Deep Learning Models**: RCNN, Faster RCNN
 - **Frameworks**: TensorFlow, PyTorch, OpenCV
 - **Mobile App**: Flutter
